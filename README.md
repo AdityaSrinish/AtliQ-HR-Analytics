@@ -1,33 +1,54 @@
-Project Overview:
+# 👥 People Analytics: Workforce & Wellness Dashboard
 
-This project extends the initial analytical capabilities to focus specifically on Workforce Management, Attendance Patterns, and Employee Well-being. 
-It tackles crucial modern HR questions regarding work preferences (WFH vs. WFO), potential patterns in remote work behavior, and the critical tracking of employee health events, such as sick leave related to COVID-19, to inform organizational precautions and policy.
+> **A specialized HR Intelligence solution focused on workforce management, attendance patterns, and proactive employee well-being strategies.**
 
-The goal is to provide HR with predictive and descriptive insights to optimize resource allocation, workplace policies, and ensure a healthy working environment.
+---
 
-Key Objectives:
+## 🌟 Project Overview
+This project addresses the complexities of the modern hybrid workplace. By analyzing attendance data and health events, it provides HR leadership with **predictive and descriptive insights** to optimize resource allocation, refine workplace policies, and maintain a safe, high-performing office environment.
 
-1. Work Modality Preference Analysis
+### 🛠️ Tech Stack & Skills
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Viz-FF6F61?style=for-the-badge&logo=tableau&logoColor=white)
+![HR Analytics](https://img.shields.io/badge/People_Analytics-4CAF50?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Policy Strategy](https://img.shields.io/badge/Strategic_HR-005A9C?style=for-the-badge&logo=strategy&logoColor=white)
 
-    -> Objective: Understand the overall employee preference and distribution between Work From Home (WFH) and Work From Office (WFO).
+---
 
-    -> Metric: Track the percentage of the workforce utilizing each modality over time.
+## 🚀 Key Objectives
 
+### 🏠 1. Hybrid Work & Attendance Analysis
+* **Modality Preferences:** Tracking the distribution between **Work From Home (WFH)** and **Work From Office (WFO)** to understand employee behavior.
+* **Presence Monitoring:** Calculating aggregate presence percentages (WFO + WFH) to ensure operational capacity and engagement.
+* **Pattern Investigation:** Identifying specific trends, such as frequent WFH utilization on Mondays and Fridays, to distinguish between flexibility and "extended weekend" behaviors.
 
-2. Remote Work Pattern Investigation
+### 🩺 2. Health Risk & Wellness Tracking
+* **Sick Leave Insights:** Analyzing reasons behind leaves to implement necessary organizational precautions and support systems.
+* **Critical Health Flagging:** Real-time identification of contagious illnesses (e.g., COVID-19) to trigger immediate protocols like sanitization, contact tracing, or localized WFH mandates.
+* **Policy Optimization:** Using health data to inform long-term wellness policies and hybrid work flexibility.
 
-    -> Objective: Identify and investigate patterns of frequent WFH utilization, particularly on Mondays and Fridays.
+---
 
-    -> Insight: Analyze if this pattern suggests extended weekend behavior, requiring policy review or targeted communication.
+## 📂 Project Components
+| Analysis Area | Description | Key Metrics |
+| :--- | :--- | :--- |
+| **Workforce Presence** | Overall engagement levels | % Present, % WFH, % WFO |
+| **Behavioral Patterns** | Temporal attendance trends | Monday/Friday WFH Variance |
+| **Wellness Report** | Health-related absenteeism | Sick Leave Frequency, Health Risk Alerts |
 
-3. Weekly/Monthly Attendance Monitoring
+---
 
-    -> Objective: Provide a clear, aggregate view of workforce presence.
+## 💡 Business Impact
+* **Operational Readiness:** Enabled HR to predict office capacity needs based on historical hybrid work patterns.
+* **Risk Mitigation:** Provided a framework for rapid response to health-related workplace disruptions.
+* **Data-Driven Policy:** Transformed anecdotal observations about "Friday WFH" into measurable data points for management review.
 
-    -> Metric: Calculate the percentage of people present (WFO + WFH) on a given week or month to monitor overall engagement and operational capacity.
+---
 
-4. Sick Leave and Health Risk Identification
+## 📬 Contact & Connect
+**Aditya Srinish** | *MBA in Business Analytics & Operations*
 
-    -> Objective: Understand the reasons behind sick leave to implement necessary organizational precautions.
-
-    -> Critical Insight: Flag sick leaves reported due to contagious illnesses (e.g., COVID-19) to trigger immediate company action (e.g., sanitization, contact tracing, specific WFH mandates).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasrinish/)
+[![Portfolio](https://img.shields.io/badge/Data_Portfolio-05192D?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datascienceportfol.io/adityasrinish)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdityaSrinish)
